@@ -10,8 +10,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF" width="400"/>
 </p>
 
-- 🌱 I’m expanding my knowledge in **Web technologies**
-- ⚡ Fun fact: **I’m fluent in Sarcasm!**
+- 🌱  Learning **Web Development & AI**
+- 💬 Open to collaboration on **JavaScript, MERN Stack, Web3**
+- 📫 Reach  me at **gmehra161@gmail.com**
+- ⚡ Fun fact: **I code and still manage to enjoy sarcasm!**
+
 
 ---
 
@@ -43,7 +46,7 @@
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
- 
+   <img src="https://github.com/Gaurxvv/Gaurxvv/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -55,7 +58,7 @@
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gaurxvv" alt="GitHub Streak" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurxvv&layout=compact&theme=radical" alt="Top Languages" width="400"/>
     </td>
   </tr>
 </table>
