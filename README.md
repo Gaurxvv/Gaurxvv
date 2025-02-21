@@ -55,9 +55,6 @@
 <table align="center">
   <tr>
     <td>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gaurxvv" alt="GitHub Streak" /></a>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurxvv&layout=compact&theme=radical" alt="Top Languages" width="400"/>
     </td>
   </tr>
