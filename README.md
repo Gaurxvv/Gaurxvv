@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Gaurav Mehra 👋</h1>
+<h1 align="center">Hey there, I'm Gauravv Mehra 👋</h1>
 <h3 align="center">Turning Concepts into Web Reality</h3>
 
 <p align="center">
@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/gaurav-mehra-560479277/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://instagram.com/gxuravv" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
----
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
