@@ -31,12 +31,3 @@
 </p>
 
 ---
-<h3 align="center">GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurxvv&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-    </td>
-  </tr>
-</table>
